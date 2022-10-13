@@ -17,3 +17,8 @@ Yes: if the loan is approved
 No: if the loan is disapproved
 
 So using the training dataset we will train our model and try to predict our target column that is `Loan Status` on the test dataset.
+
+I have used three main Algorithms to predict:
+    - LogisticRegression
+    - SVM
+    - RandomForestClassifier
